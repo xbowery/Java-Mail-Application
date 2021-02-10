@@ -1,0 +1,1 @@
+java -classpath lib/*;out demo.Tester
